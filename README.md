@@ -1,5 +1,5 @@
 # SplitItEasy 💸
-
+www.splititeasy.online
 **SplitItEasy** is a modern, user-friendly web application designed to take the stress out of shared finances. Whether you're splitting a dinner bill, managing household rent, or tracking group travel expenses, SplitItEasy makes it simple to track who owes whom and keep your budget on track.
 
 ---
